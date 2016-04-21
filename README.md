@@ -3,6 +3,8 @@
 Questi sono i miei esercizi relativi al laboratorio del corso di Laboratorio Avanzato di Programmazione I (A.A. 2015/2016) tenuto dal Professore Corrado Santoro (Università degli Studi di Catania).
 Si tratta di programmazione di microcontrollori, in microcontrollore in questione è il PIC 18F25K22. Il linguaggio usato è il C.
 
+Troverai fra l'altro uno scheletro di programma ed alcune funzioni utili.
+
 Usali pure come esempio :)
 
 Those are some excercises written in C when I was studying for a university course called Advanced Programming Laboratory I (Professor Corrado Santoro) during Academic Year 2015/2016 at University of Studies of Catania.
